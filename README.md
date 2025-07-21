@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Bhavya Bhambhani
+#  Hey there! I'm Bhavya Bhambhani
 
 I'm a passionate **Computer Science student** pursuing B.Tech in CSE (AI & ML) at Manipal University Jaipur. I love solving real-world problems using **Machine Learning**, **LLMs**, and backend technologies.
 
@@ -24,7 +24,8 @@ Currently exploring the intersection of **AI, NLP, and Full-Stack Development**,
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-LangChain-3B7DDD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-
+    GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
