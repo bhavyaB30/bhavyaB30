@@ -1,6 +1,6 @@
 #  Hey there! I'm Bhavya Bhambhani
 
-I'm a passionate **Computer Science student** pursuing B.Tech in CSE (AI & ML) at Manipal University Jaipur. I love solving real-world problems using **Machine Learning**, **LLMs**, and backend technologies.
+I'm a passionate Final Year **Computer Science student** pursuing B.Tech in CSE (AI & ML) at Manipal University Jaipur. I love solving real-world problems using **Machine Learning**, **LLMs**, and backend technologies.
 
 Currently exploring the intersection of **AI, NLP, and Full-Stack Development**, I enjoy building smart, scalable tools—from resume optimizers with LangChain to satellite image classifiers using CNNs.
 
